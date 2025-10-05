@@ -1,0 +1,23 @@
+{
+    "transaction_fee": {
+        "enabled": false,
+        "min_amount": 0,
+        "fee_rate": 0.0
+    },
+    "tax_system": {
+        "enabled": false,
+        "rate": 0.0,
+        "period_days": 30,
+        "last_collected": null,
+        "tax_name": "세금"
+    },
+    "salary_system": {
+        "enabled": false,
+        "salaries": {},
+        "last_paid": null,
+        "source_account": {}
+    },
+    "frozen_accounts": {},
+    "treasury_account": null,
+    "extra_admin_ids": []
+}
